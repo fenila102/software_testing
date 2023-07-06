@@ -1,0 +1,132 @@
+What is SDLC
+
+*The software development lifecycle (SDLC) is the cost-effective and time-efficient process
+that development teams use to design and build high-quality software.
+The goal of SDLC is to minimize project risks through forward planning 
+so that software meets customer expectations during production and beyond.
+
+
+
+ What is software testing?
+
+*Software testing is the process of evaluating and verifying that a 
+software product or application does what it is supposed to do.
+The benefits of testing include preventing bugs, reducing development costs and improving performance.
+
+
+
+ What is agile methodology?
+
+*Agile SDLC model is a combination of interative and increments process models with foces on process
+adaptability and custom satisfaction by raid delivery of working software product.
+The Agile methodology is a way to manage a project by breaking it up into several phases.
+It involves constant collaboration with stakeholders and continuous improvement at every stage. 
+Once the work begins, teams cycle through a process of planning, executing, and evaluating. 
+Continuous collaboration is vital, both with team members and project stakeholders.
+
+
+
+ What is SRS
+
+*What Is a Software Requirements Specification (SRS) Document?
+A software requirements specification (SRS) is a document that describes 
+what the software will do and how it will be expected to perform. 
+It also describes the functionality the product needs to fulfill the needs of all stakeholders (business, users).
+
+
+
+ What is oops
+
+*OOPs (Object-Oriented Programming System)
+Object means a real-world entity such as a pen, chair, table, computer, watch, etc.
+Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. 
+It simplifies software development and maintenance by providing some concepts: Object.
+
+
+
+ Write Basic Concepts of oops
+
+*oops (Object-Oriented Programming system)
+An approach or a programming pattern where the programs are structured around objects rather than functions and logic.
+
+
+
+ What is object
+
+*It can be down both dynatic testing and stiting testing (SRS)
+find defects-->priveding defects-->quality
+ganing cofedance in and proveding information of any application quality.
+
+
+
+ What is class
+
+*In object-oriented programming, a class is a template definition of the methods and variables in a particular kind of object. 
+Thus, an object is a specific instance of a class; it contains real values instead of variables.
+The class is one of the defining ideas of object-oriented programming. 
+Among the important ideas about classes are:-
+.A class can have subclasses that can inherit all or some of the characteristics of the class. 
+In relation to each subclass, the class becomes the superclass.
+.Subclasses can also define their own methods and variables that are not part of their superclass.
+.The structure of a class and its subclasses is called the class hierarchy.
+
+
+ What is encapsulation
+
+*Encapsulation is a way to restrict the direct access to some components of an object, 
+so users cannot access state values for all of the variables of a particular object. 
+Encapsulation can be used to hide both data members and data functions or methods associated with an instantiated class or object.
+
+
+ What is inheritance
+
+*Inheritance is the process by which genetic information is passed on from parent to child. 
+.This is why members of the same family tend to have similar characteristics.
+We actually have two genomes? each
+.We get one copy of our genome from each of our parents
+.Inheritance describes how genetic material is passed on from parent to child.
+
+
+
+ What is polymorphism
+
+*Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance. 
+Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class. 
+Polymorphism uses those methods to perform different tasks.
+
+
+ Write SDLC phases with basic introduction
+
+*Inception phase (analysis of the project's needs, goals, and scope). 
+Elaboration phase (the design of a functional product architecture). 
+Construction phase (coding of the architecture and creation of a deployable product) 
+Transition phase (releasing the product to a production environment).
+
+
+
+ Explain Phases of the waterfall model
+
+*Waterfall approach was first SDLC Model to be used widely in Software Engineering to ensure success of the project. 
+In "The Waterfall" approach, the whole process of software development is divided into separate phases. 
+In this Waterfall model, typically, the outcome of one phase acts as the input for the next phase sequentially.
+
+
+
+ Write phases of spiral model
+
+*The spiral model has four phases: Planning, risk analysis, product development and next phase planning or Evaluation. 
+A software project repeatedly passes through these phases in iterations (called Spirals in this model).
+
+
+
+ Explain working methodology of agile model and also write pros and cons.
+
+*The Agile methodology is a way to manage a project by breaking it up into several phases. 
+It involves constant collaboration with stakeholders and continuous improvement at every stage. 
+Once the work begins, teams cycle through a process of planning, executing, and evaluating.
+
+
+ Draw usecase on Online shopping product using COD.
+ Draw usecase on Online shopping product using payment gateway.
+ Draw Usecase on Online book shopping
+ Draw Usecase on online bill payment system (paytm)
